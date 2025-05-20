@@ -1,3 +1,4 @@
+
 # 🏛️ ARchitect — AR App for Building Recognition
 
 An Augmented Reality mobile application that identifies university buildings using YOLOv8 and displays real-time information using AR overlays.
@@ -18,7 +19,7 @@ An Augmented Reality mobile application that identifies university buildings usi
 
 ## 🧠 Technologies Used
 
-- Unity AR & 3D (for AR interface and UI)
+- Unity 3D (for AR interface and UI)
 - YOLOv8 (trained via Roboflow)
 - Python Flask API (backend server)
 - Google Colab (for training and fine-tuning the model)
@@ -31,5 +32,70 @@ An Augmented Reality mobile application that identifies university buildings usi
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/Bita-Batmani/ARchitect-FinalUniProject
+git clone https://github.com/Bita-Batmani/ARchitect.git
 cd ARchitect
+```
+
+### 2. Flask Backend Setup
+Navigate to the `FlaskServer` directory and install dependencies:
+
+```bash
+cd FlaskServer
+pip install -r requirements.txt
+```
+
+Run the server:
+
+```bash
+python app.py
+```
+
+Make sure your Unity app points to the correct local or remote IP of the backend.
+
+---
+
+## 📁 Project Structure
+
+```
+ARchitect/
+│
+├── UnityApp/                 # Unity project files
+├── FlaskServer/              # Flask backend with YOLOv8 model
+│   ├── app.py                # Main Flask server
+│   ├── yolov8_model/         # YOLOv8 weights/config
+│   └── requirements.txt
+├── Screenshots/              # App screenshots
+└── README.md
+```
+
+---
+
+## 📸 Screenshots
+
+![Screenshot 1](Screenshots/screenshot1.png)
+![Screenshot 2](Screenshots/screenshot2.png)
+
+---
+
+## 🙏 Acknowledgments
+
+Thanks to my supervisor for their valuable guidance and to my university for supporting this project.
+
+---
+
+## 📎 GitHub Repository
+
+[🔗 https://github.com/Bita-Batmani/ARchitect](https://github.com/Bita-Batmani/ARchitect)
+
+---
+
+## 📬 Contact
+
+📧 your.email@example.com  
+💼 [LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
+
+---
+
+## 📌 Tags
+
+`#AugmentedReality` `#Unity3D` `#YOLOv8` `#ComputerVision` `#BachelorProject` `#Flask` `#ARdevelopment` `#GitHubProjects`
