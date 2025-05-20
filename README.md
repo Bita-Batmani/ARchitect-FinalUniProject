@@ -18,7 +18,7 @@ An Augmented Reality mobile application that identifies university buildings usi
 
 ## 🧠 Technologies Used
 
-- Unity 3D (for AR interface and UI)
+- Unity AR & 3D (for AR interface and UI)
 - YOLOv8 (trained via Roboflow)
 - Python Flask API (backend server)
 - Google Colab (for training and fine-tuning the model)
