@@ -85,14 +85,14 @@ Thanks to my supervisor for their valuable guidance and to my university for sup
 
 ## 📎 GitHub Repository
 
-[🔗 https://github.com/Bita-Batmani/ARchitect](https://github.com/Bita-Batmani/ARchitect)
+[🔗 https://github.com/Bita-Batmani/ARchitect](https://github.com/Bita-Batmani/ARchitect-FinalUniProject)
 
 ---
 
 ## 📬 Contact
 
-📧 your.email@example.com  
-💼 [LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
+📧 bitabatmani20@gmail.com  
+💼 [LinkedIn Profile](https://www.linkedin.com/in/bita-batmani/)
 
 ---
 
