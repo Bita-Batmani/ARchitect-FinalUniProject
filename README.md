@@ -31,5 +31,5 @@ An Augmented Reality mobile application that identifies university buildings usi
 
 ### 1. Clone the Repository
 ```bash
-git clone [https://github.com/Bita-Batmani/ARchitect.git](https://github.com/Bita-Batmani/ARchitect-FinalUniProject)
+git clone https://github.com/Bita-Batmani/ARchitect-FinalUniProject
 cd ARchitect
