@@ -85,7 +85,7 @@ Thanks to my supervisor for their valuable guidance and to my university for sup
 
 ## 📎 GitHub Repository
 
-[🔗 https://github.com/Bita-Batmani/ARchitect](https://github.com/Bita-Batmani/ARchitect-FinalUniProject)
+[🔗 https://github.com/Bita-Batmani/ARchitect-FinalUniProject](https://github.com/Bita-Batmani/ARchitect-FinalUniProject)
 
 ---
 
